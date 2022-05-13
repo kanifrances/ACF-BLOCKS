@@ -26,5 +26,5 @@
 
 
 <p align="center">
-<a href=""><img src="template-parts/assets/images/acf-block.jpg" width="850"></a>
+<a href=""><img src="template-parts/assets/images/acf-block.JPG" width="850"></a>
 </p>
